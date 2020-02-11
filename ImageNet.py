@@ -117,7 +117,7 @@ def main():
 
     if args.pretrained:
         print("=>loading pre-trained model...")
-        checkpoint = torch.load("orn_M=4_xnor_60.967.pth.tar")
+        checkpoint = torch.load("cbcn_M=4_60.967.pth.tar")
         model.load_state_dict(checkpoint['state_dict'])
         print("loading done!")
     # define loss function (criterion) and optimizer

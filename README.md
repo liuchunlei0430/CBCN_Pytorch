@@ -11,7 +11,8 @@ Install Convolutional Module and Binary Module
 ## Train and Evaluation
 •	Train: python ImageNet.py [dataset_dir] --tensorboard   
 •	Evaluation: python ImageNet.py [dataset_dir] --pretrained --tensorboard   
-
+CBCN(without centerloss finetune) models can be obtained in https://drive.google.com/open?id=1wXL5LJAE6oduDBM7if4zeoSIJ0tjS4sS.   
+CBCN(with centerloss finetune) is prepared to upload in Google Drive.   
 
 | ResNet18 | Full-precision | CBCN(without centerloss finetune) | CBCN(with centerloss finetune) |
 | ------ | ------ | ------ | ------ |

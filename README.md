@@ -20,7 +20,8 @@ CBCN(with centerloss finetune) is prepared to upload in Google Drive.
 
 Thanks for the code of ORN! Inspired by ORN which already show their powerful ability in within-class rotation-invariance, we also employ similar way to enhance the representative ability which destoryed by the binarization process. More detail can be seen in the install/orn/modules/ORConv.py.    
 
-## Please cite   
+## Please cite    
+@inproceedings{liu2019cbcn,   
   title={Circulant Binary Convolutional Networks: Enhancing the Performance of 1-bit
 DCNNs with Circulant Back Propagation},   
   author={Liu, ChunLei and Ding, Wenrui and Xia, Xin and Zhang, Baochang and Gu, Jiaxin  and Liu, Jianzhuang and Ji, Rongrong and David, Doermann },    

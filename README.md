@@ -1,5 +1,5 @@
 ## Prepare
-Environment: PyTorch (0.4.0), torchvision (0.2.1), tensorboardX, python3, CUDA(8.0) 
+Environment: PyTorch (0.4.0), torchvision (0.2.1), tensorboardX, python3, CUDA(8.0)   
 •	git clone https://github.com/liuchunlei0430/CBCN_Pytorch.git
 get the ImageNet dataset ready    
 Install Convolutional Module and Binary Module    

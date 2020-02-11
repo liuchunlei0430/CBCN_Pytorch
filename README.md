@@ -18,7 +18,7 @@ CBCN(with centerloss finetune) is prepared to upload in Google Drive.
 | ------ | ------ | ------ | ------ |
 | Top-1 | 69.3 | 61.0 | 61.4 |
 
-Thanks for the code of ORN! Inspired by ORN which already show their powerful ability in within-class rotation-invariance, we also employ similar way to enhance the representative ability which destoryed by the binarization process. More detail can be seen in the install/orn/modules/ORConv.py.    
+Thanks for the code of ORN! Inspired by ORN which already show their powerful ability in within-class rotation-invariance, we also employ similar way to enhance the representative ability which destoryed by the binarization process. We focus on storate reduction in our CBCNs. More detail can be seen in the install/orn/modules/ORConv.py.    
 
 ## Please cite    
 @inproceedings{liu2019cbcn,   

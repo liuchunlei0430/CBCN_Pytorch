@@ -25,4 +25,11 @@ DCNNs with Circulant Back Propagation},
   author={Liu, ChunLei and Ding, Wenrui and Xia, Xin and Zhang, Baochang and Gu, Jiaxin  and Liu, Jianzhuang and Ji, Rongrong and David, Doermann },
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
   year={2019}
+}   
+@ inproceedings{Zhou2017ORN,
+    author = {Zhou, Yanzhao and Ye, Qixiang and Qiu, Qiang and Jiao, Jianbin},
+    title = {Oriented Response Networks},
+    booktitle = {CVPR},
+    year = {2017}
 }
+
